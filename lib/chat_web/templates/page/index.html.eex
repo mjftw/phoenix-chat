@@ -1,6 +1,6 @@
 
 <!-- The list of messages will appear here: -->
-<ul id='msg-list' class='row' style='list-style: none; min-height:200px; padding: 10px;'></ul>
+<ul id='msg-list' class='column' style='list-style: none; min-height:200px; padding: 10px;'></ul>
 
 <div class="row">
   <div class="column column-20">
